@@ -1,5 +1,5 @@
 # AWS Infrastructure
-![alt text](https://raw.githubusercontent.com/amansin0504/aws-3tier-app-tfm/main/images/infra.png)
+![alt text](https://raw.githubusercontent.com/amansin0504/aws-3tier-multivpc-app-tfm/main/images/infra.png)
 
 # Deploy Architecture
 ## Prerequisites
